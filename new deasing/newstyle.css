@@ -1,0 +1,23 @@
+$primarycolor: red;
+
+
+.about-Us{
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+
+    h2{
+        margin-bottom: 25px;
+        margin-top: 100px;
+        font-size: 30px;
+        font-weight: 600;
+        color: $primarycolor;
+
+        span{
+
+        }
+    }
+}
+
+
